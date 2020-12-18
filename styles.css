@@ -1,0 +1,46 @@
+body
+{
+    background-color: white;
+}
+
+
+.navbar{
+    font-family: cairo;
+    margin-right: 8%;
+    margin-top: 4%;
+}
+ul{
+    float: right;
+}
+ul li
+{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #A6A7A8;
+    padding: 40px ;
+    transition: 0.2s ease;
+    font-size: 22px;
+}
+ul li a:hover{
+     color: #14181A;
+    
+}
+ul li.active a{
+     color: #14181A;
+    
+}
+
+.heading{
+    
+    font-family: SF UI Display light;
+    padding-left: 9%;
+    font-size: 200px;
+}
+
+
+
+
+
+
